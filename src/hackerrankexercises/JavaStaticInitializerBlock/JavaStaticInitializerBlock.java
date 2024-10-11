@@ -1,4 +1,4 @@
-package hackerrankexercises;
+package hackerrankexercises.JavaStaticInitializerBlock;
 
 import java.util.Scanner;
 
