@@ -1,4 +1,4 @@
-package hackerrankexercises.JavaGenerics;
+package JavaGenerics;
 
 public class JavaGenerics {
 

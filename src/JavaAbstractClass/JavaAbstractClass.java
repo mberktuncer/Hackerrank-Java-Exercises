@@ -1,4 +1,4 @@
-package hackerrankexercises.JavaAbstractClass;
+package JavaAbstractClass;
 
 import java.util.Scanner;
 

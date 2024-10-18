@@ -1,4 +1,4 @@
-package hackerrankexercises.CanYouAccess;
+package CanYouAccess;
 
 import java.util.Scanner;
 
