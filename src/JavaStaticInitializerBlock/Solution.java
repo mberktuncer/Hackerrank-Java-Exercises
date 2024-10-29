@@ -2,7 +2,7 @@ package JavaStaticInitializerBlock;
 
 import java.util.Scanner;
 
-public class JavaStaticInitializerBlock {
+public class Solution {
 
     static int B;
     static int H;

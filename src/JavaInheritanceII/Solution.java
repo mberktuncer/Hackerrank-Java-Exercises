@@ -10,7 +10,7 @@ class Arithmetic
 class Adder extends Arithmetic{}
 
 
-public class JavaInheritanceII {
+public class Solution {
     public static void main(String []args){
         // Create a new Adder object
         Adder a = new Adder();

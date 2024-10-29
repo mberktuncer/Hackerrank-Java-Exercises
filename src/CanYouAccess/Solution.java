@@ -2,7 +2,7 @@ package CanYouAccess;
 
 import java.util.Scanner;
 
-public class CanYouAccess {
+public class Solution {
 
     public static void main(String[] args){
 

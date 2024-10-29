@@ -20,7 +20,7 @@ class MyCalculator {
 
 }
 
-public class JavaExceptionHandling {
+public class Solution {
     public static final MyCalculator my_calculator = new MyCalculator();
     public static final Scanner in = new Scanner(System.in);
 

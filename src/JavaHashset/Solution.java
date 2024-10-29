@@ -3,7 +3,7 @@ package JavaHashset;
 import java.util.Scanner;
 import java.util.HashSet;
 
-public class JavaHashset {
+public class Solution {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
